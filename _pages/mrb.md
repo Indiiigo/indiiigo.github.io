@@ -19,22 +19,21 @@ The course assessment will be based on a presentation and final report of a chos
 - Keshav, Srinivasan. ["How to read a paper."](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) ACM SIGCOMM Computer Communication Review 37.3 (2007): 83-84.  
 - Pain, Elisabeth [“How to review a paper”](https://www.science.org/content/article/how-review-paper)
 
-**May 8th** Social data biases
+**May 8th + 15th** Social data biases
 - Olteanu, Alexandra, et al. ["Social data: Biases, methodological pitfalls, and ethical boundaries."](https://www.frontiersin.org/articles/10.3389/fdata.2019.00013/full)  Frontiers in big data 2 (2019)
 
-**May 15th** Measurement and Representation Errors
+**May 22nd** Measurement and Representation Errors
 - Groves, Robert M., and Lars Lyberg. ["Total survey error: Past, present, and future."](https://academic.oup.com/poq/article/74/5/849/1817502) Public opinion quarterly 74.5 (2010) 
 - Sen, Indira, et al. ["A total error framework for digital traces of human behavior on online platforms."](https://academic.oup.com/poq/article/85/S1/399/6359490) Public Opinion Quarterly 85.S1 (2021)
 
-**May 22th**	guest presentation\
 **Jun 5**	student presentation\
-**Jun 12**	guest presentation [Max Pellert]\
+**Jun 12**	guest presentation: [Max Pellert](https://mpellert.at/)\
 **Jun 19**	student presentation\
-**Jun 26**	guest presentation\
-**Jul 3**	student presentation\
-**Jul 10**	guest presentation [Giordano de Marzo]\
+**Jun 26**	guest presentation: [Nils Feldhus](https://nfelnlp.github.io/)\
+**Jul 3**	guest presentation: [Katrin Weller](https://katrinweller.net/)\
+**Jul 10**	guest presentation: [Giordano de Marzo](https://giordano-demarzo.github.io/)\
 **Jul 17**	student presentation\
-**Jul 24**	guest presentation\
+**Jul 24**	guest presentation: [Jessica Daikeler](https://www.gesis.org/en/institute/about-us/staff/person/jessica.daikeler)\
 **Jul 31**	student presentation\
 **Aug 7**	student presentation
 
