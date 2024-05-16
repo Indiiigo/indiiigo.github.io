@@ -19,8 +19,9 @@ The course assessment will be based on a presentation and final report of a chos
 - Keshav, Srinivasan. ["How to read a paper."](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) ACM SIGCOMM Computer Communication Review 37.3 (2007): 83-84.  
 - Pain, Elisabeth [“How to review a paper”](https://www.science.org/content/article/how-review-paper)
 
-**May 8th + 15th** Social data biases
+**May 8th + 15th** [Social data biases](http://indiiigo.github.io/files/mrb/session_2_3_social_data_limits.pdf) 
 - Olteanu, Alexandra, et al. ["Social data: Biases, methodological pitfalls, and ethical boundaries."](https://www.frontiersin.org/articles/10.3389/fdata.2019.00013/full)  Frontiers in big data 2 (2019)
+- [Slides from a related tutorial by Olteanu and colleagues](https://www.aolteanu.com/SocialDataLimitsTutorial/slidesKDD17.html)
 
 **May 22nd** Measurement and Representation Errors
 - Groves, Robert M., and Lars Lyberg. ["Total survey error: Past, present, and future."](https://academic.oup.com/poq/article/74/5/849/1817502) Public opinion quarterly 74.5 (2010) 
