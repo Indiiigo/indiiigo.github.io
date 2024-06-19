@@ -34,7 +34,7 @@ The course assessment will be based on a presentation and final report of a chos
 - Tonneau, Manuel, et al. ["From Languages to Geographies: Towards Evaluating Cultural Bias in Hate Speech Datasets."](https://arxiv.org/abs/2404.17874) Workshop on Online Harms (WOAH), colocated with North American Association of Computational Lingusitics (NAACL) (2024). 
 
 **Jun 19**	Presentation by Leonard Tiedemann
-- Gligorić, Kristina, Ashton Anderson, and Robert West. ["How constraints affect content: The case of Twitter’s switch from 140 to 280 characters."](https://ojs.aaai.org/index.php/ICWSM/article/view/15079) Proceedings of the International AAAI Conference on Web and Social Media. Vol. 12. No. 1. 2018.
+- Jaidka, Kokil, Alvin Zhou, and Yphtach Lelkes. ["Brevity is the soul of Twitter: The constraint affordance and political discussion."](https://academic.oup.com/joc/article-abstract/69/4/345/5547032) Journal of Communication 69.4 (2019): 345-372.
 
 **Jun 26**	guest presentation: [Nils Feldhus](https://nfelnlp.github.io/)\
 **Jul 3**	guest presentation: [Katrin Weller](https://katrinweller.net/)\
