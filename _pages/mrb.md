@@ -36,13 +36,21 @@ The course assessment will be based on a presentation and final report of a chos
 **Jun 19**	Presentation by Leonard Tiedemann
 - Jaidka, Kokil, Alvin Zhou, and Yphtach Lelkes. ["Brevity is the soul of Twitter: The constraint affordance and political discussion."](https://academic.oup.com/joc/article-abstract/69/4/345/5547032) Journal of Communication 69.4 (2019): 345-372.
 
-**Jun 26**	guest presentation: [Nils Feldhus](https://nfelnlp.github.io/)\
+**Jun 26**	Guest presentation by [Nils Feldhus](https://nfelnlp.github.io/)
+- Feldhus, Nils, et al. ["InterroLang: Exploring NLP Models and Datasets through Dialogue-based Explanations."](https://doi.org/10.18653/v1/2023.findings-emnlp.359) Findings of the Association for Computational Linguistics: EMNLP 2023. 
+
+- Schmitt, Vera, et al. ["The Role of Explainability in Collaborative Human-AI Disinformation Detection."](https://dl.acm.org/doi/10.1145/3630106.3659031) The 2024 ACM Conference on Fairness, Accountability, and Transparency. 2024. 
+
+
 **Jul 3**	guest presentation: [Katrin Weller](https://katrinweller.net/)\
 **Jul 10**	guest presentation: [Giordano de Marzo](https://giordano-demarzo.github.io/)\
-**Jul 17**	student presentation\
+**Jul 17**	Presentation by Theresa Wagner
+- Lucy, Li, and David Bamman. ["Gender and representation bias in GPT-3 generated stories."](https://aclanthology.org/2021.nuse-1.5/) Proceedings of the third workshop on narrative understanding. 2021.
+
 **Jul 24**	guest presentation: [Jessica Daikeler](https://www.gesis.org/en/institute/about-us/staff/person/jessica.daikeler)\
-**Jul 31**	student presentation\
-**Aug 7**	student presentation
+**Jul 31**	Presentation by Peer Saleth
+- 
+**Aug 7**	Wrap-up
 
 ### Suggested Readings
 
