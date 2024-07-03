@@ -30,7 +30,7 @@ The course assessment will be based on a presentation and final report of a chos
 **Jun 5**	Guest Presentation by [Max Pellert](https://mpellert.at/)
 - Pellert, Max, et al. ["Validating daily social media macroscopes of emotions."](https://www.nature.com/articles/s41598-022-14579-y) Scientific reports 12.1 (2022): 11236.
 
-**Jun 12**	Guest Presentation by [Manuel Tonneou](https://mpellert.at/)
+**Jun 12**	Guest Presentation by [Manuel Tonneou](https://manueltonneau.com/)
 - Tonneau, Manuel, et al. ["From Languages to Geographies: Towards Evaluating Cultural Bias in Hate Speech Datasets."](https://arxiv.org/abs/2404.17874) Workshop on Online Harms (WOAH), colocated with North American Association of Computational Lingusitics (NAACL) (2024). 
 
 **Jun 19**	Presentation by Leonard Tiedemann
@@ -41,16 +41,26 @@ The course assessment will be based on a presentation and final report of a chos
 
 - Schmitt, Vera, et al. ["The Role of Explainability in Collaborative Human-AI Disinformation Detection."](https://dl.acm.org/doi/10.1145/3630106.3659031) The 2024 ACM Conference on Fairness, Accountability, and Transparency. 2024. 
 
+**Jul 3**	Guest presentation: [Katrin Weller](https://katrinweller.net/)\
 
-**Jul 3**	guest presentation: [Katrin Weller](https://katrinweller.net/)\
-**Jul 10**	guest presentation: [Giordano de Marzo](https://giordano-demarzo.github.io/)\
+- Breuer, Johannes, Katrin Weller, and Katharina Kinder-Kurlanda. 2023. [The Role of Participants in Online Privacy Research: Ethical and Practical Considerations.](https://doi.org/10.4324/9781003244677)  In The Routledge Handbook of Privacy and Social Media, edited by Sabine Trepte, and Philipp K. Masur, 314-323. Routledge.
+
+- Kinder-Kurlanda, Katharina E., and Katrin Weller. 2020. ["Perspective: Acknowledging data work in the social media research lifecycle."](https://doi.org/10.3389/fdata.2020.509954) Frontiers in Big Data 3 (509954). 
+
+**Jul 10**	Guest presentation: [Giordano de Marzo](https://giordano-demarzo.github.io/)\
+
+- De Marzo, Giordano, Luciano Pietronero, and David Garcia. ["Emergence of scale-free networks in social interactions among large language models."](https://arxiv.org/abs/2312.06619) arXiv preprint arXiv:2312.06619 (2023).
+
 **Jul 17**	Presentation by Theresa Wagner
 - Lucy, Li, and David Bamman. ["Gender and representation bias in GPT-3 generated stories."](https://aclanthology.org/2021.nuse-1.5/) Proceedings of the third workshop on narrative understanding. 2021.
 
-**Jul 24**	guest presentation: [Jessica Daikeler](https://www.gesis.org/en/institute/about-us/staff/person/jessica.daikeler)\
-**Jul 31**	Presentation by Peer Saleth
-- 
+**Jul 24**	Guest presentation: [Jessica Daikeler](https://www.gesis.org/en/institute/about-us/staff/person/jessica.daikeler)\
+**Jul 31**	Presentation by Peer Saleth\
+
+- Lasser, Jana, et al. ["From alternative conceptions of honesty to alternative facts in communications by US politicians."](https://www.nature.com/articles/s41562-023-01691-w) Nature human behaviour 7.12 (2023): 2140-2151.
+
 **Aug 7**	Wrap-up
+**Aug 15** Final reports due 
 
 ### Suggested Readings
 
