@@ -60,9 +60,10 @@ Background on LLMs and Social Simulations:
 **Jul 17**	Presentation by Theresa Wagner
 - Lucy, Li, and David Bamman. ["Gender and representation bias in GPT-3 generated stories."](https://aclanthology.org/2021.nuse-1.5/) Proceedings of the third workshop on narrative understanding. 2021.
 
-**Jul 24**	Guest presentation: [Jessica Daikeler](https://www.gesis.org/en/institute/about-us/staff/person/jessica.daikeler)\
-**Jul 31**	Presentation by Peer Saleth
+**Jul 24**	Guest presentation: [Jessica Daikeler](https://www.gesis.org/en/institute/about-us/staff/person/jessica.daikeler)
+- Daikeler, Jessica, et al. ["Assessing data quality in the age of digital social research: A systematic review."](https://journals.sagepub.com/doi/full/10.1177/08944393241245395) Social Science Computer Review (2024): 08944393241245395.
 
+**Jul 31**	Presentation by Peer Saleth
 - Lasser, Jana, et al. ["From alternative conceptions of honesty to alternative facts in communications by US politicians."](https://www.nature.com/articles/s41562-023-01691-w) Nature human behaviour 7.12 (2023): 2140-2151.
 
 **Aug 7**	Wrap-up\
