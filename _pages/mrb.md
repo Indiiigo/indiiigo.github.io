@@ -41,13 +41,13 @@ The course assessment will be based on a presentation and final report of a chos
 
 - Schmitt, Vera, et al. ["The Role of Explainability in Collaborative Human-AI Disinformation Detection."](https://dl.acm.org/doi/10.1145/3630106.3659031) The 2024 ACM Conference on Fairness, Accountability, and Transparency. 2024. 
 
-**Jul 3**	Guest presentation: [Katrin Weller](https://katrinweller.net/)
+**Jul 3**	Guest presentation by [Katrin Weller](https://katrinweller.net/)
 
 - Breuer, Johannes, Katrin Weller, and Katharina Kinder-Kurlanda. 2023. [The Role of Participants in Online Privacy Research: Ethical and Practical Considerations.](https://doi.org/10.4324/9781003244677)  In The Routledge Handbook of Privacy and Social Media, edited by Sabine Trepte, and Philipp K. Masur, 314-323. Routledge.
 
 - Kinder-Kurlanda, Katharina E., and Katrin Weller. 2020. ["Perspective: Acknowledging data work in the social media research lifecycle."](https://doi.org/10.3389/fdata.2020.509954) Frontiers in Big Data 3 (509954). 
 
-**Jul 10**	Guest presentation: [Giordano de Marzo](https://giordano-demarzo.github.io/)
+**Jul 10**	Guest presentation by [Giordano de Marzo](https://giordano-demarzo.github.io/)
 
 - De Marzo, Giordano, Luciano Pietronero, and David Garcia. ["Emergence of scale-free networks in social interactions among large language models."](https://arxiv.org/abs/2312.06619) arXiv preprint arXiv:2312.06619 (2023).
 
@@ -66,7 +66,7 @@ Background on LLMs and Social Simulations:
 **Jul 31**	Presentation by Peer Saleth
 - Lasser, Jana, et al. ["From alternative conceptions of honesty to alternative facts in communications by US politicians."](https://www.nature.com/articles/s41562-023-01691-w) Nature human behaviour 7.12 (2023): 2140-2151.
 
-**Aug 7**	Wrap-up\
+**Aug 7**	[Wrap-up](http://indiiigo.github.io/files/mrb/session_14_closing.pdf)
 **Aug 15** Final reports due 
 
 ### Suggested Readings
