@@ -87,7 +87,7 @@ author:
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=qXzr-p8AAAAJ&hl=en"
-  email            : "indira.sen@rwth-aachen.de"
+  email            : "indira.sen@uni-mannheim.de"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   #uri              :
   #bitbucket        :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  bluesky          : "https://bsky.app/profile/indiiigo.bsky.social"
 
 
 # Reading Files
