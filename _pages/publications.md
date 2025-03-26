@@ -9,6 +9,16 @@ author_profile: true
 
 Here are all my archival papers (peer-reviewed journals, conferences, and workshops). You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=qXzr-p8AAAAJ&hl=en). If you can't access a paper, [email me](indira.sen@gesis.org) for a pdf copy.
 
+# 2024
+
+Sen, Indira, Sanja Scepanovic, Marios Constantinides, and Daniele Quercia. "[The Geography of US Companies That Care About Their Employees.](https://dl.acm.org/doi/abs/10.1145/3663384.3663405)" In Proceedings of the 3rd Annual Meeting of the Symposium on Human-Computer Interaction for Work, pp. 1-9.
+
+Yu, Zehui, Indira Sen, Dennis Assenmacher, Mattia Samory, Leon Fröhling, Christina Dahn, Debora Nozza, and Claudia Wagner. "[The unseen targets of hate: A systematic review of hateful communication datasets.](https://journals.sagepub.com/doi/full/10.1177/08944393241258771)" Social Science Computer Review (2024): 08944393241258771.
+
+Daikeler, Jessica, Leon Fröhling, Indira Sen, Lukas Birkenmaier, Tobias Gummer, Jan Schwalbach, Henning Silber, Bernd Weiß, Katrin Weller, and Clemens Lechner. "[Assessing data quality in the age of digital social research: A systematic review.](https://journals.sagepub.com/doi/full/10.1177/08944393241245395)" Social Science Computer Review (2024): 08944393241245395.
+
+Trokhymovych, Mykola, Indira Sen, and Martin Gerlach. "[An Open Multilingual System for Scoring Readability of Wikipedia.](https://aclanthology.org/2024.acl-long.342/)" In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 6296-6311. 2024.
+
 # 2023
 
 Sen, Indira, Daniele Quercia, Licia Capra, Matteo Montecchi, and Sanja Šćepanović. "[Insider stories: analyzing internal sustainability efforts of major US companies from online reviews.](https://www.nature.com/articles/s41599-023-01672-4)" Humanities and Social Sciences Communications 10, no. 1 (2023): 1-9.
