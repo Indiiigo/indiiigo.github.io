@@ -7,7 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
-Here are all my archival papers (peer-reviewed journals, conferences, and workshops). You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=qXzr-p8AAAAJ&hl=en). If you can't access a paper, [email me](indira.sen@gesis.org) for a pdf copy.
+Here are my archival papers (peer-reviewed journals, conferences, and workshops). You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=qXzr-p8AAAAJ&hl=en). If you can't access a paper, [email me](indira.sen@gesis.org) for a pdf copy.
+
+# Working papers
+
+Sen, Indira, Georg Ahnert, Markus Strohmaier, and Jana Lasser. "[Validating Generative Agent-based Models](https://indiiigo.github.io/files/GABM_Validity.pdf)"
+
+# 2025
+
+Sen, Indira, Marlene Lutz, Elisa Rogers, David Garcia, and Markus Strohmaier. "[Missing the Margins: A Systematic Literature Review on the Demographic Representativeness of LLMs.](https://osf.io/preprints/socarxiv/vk3x6_v1)" Findings of ACL (2025).
+
+Alipour, Shayan, Indira Sen, Mattia Samory, and Tanushree Mitra. "[Robustness and confounders in the demographic alignment of llms with human perceptions of offensiveness.](https://arxiv.org/abs/2411.08977)" Findings of ACL (2025).
+
+Faulborn, Mats, Indira Sen, Max Pellert, Andreas Spitz, and David Garcia. "[Only a Little to the Left: A Theory-grounded Measure of Political Bias in Large Language Models.](https://arxiv.org/abs/2503.16148)" ACL (2025).
+
+Reuver, Myrthe, Indira Sen, Matteo Melis, and Gabriella Lapesa. "[Tell Me What You Know About Sexism: Expert-LLM Interaction Strategies and Co-Created Definitions for Zero-Shot Sexism Detection.](https://arxiv.org/abs/2504.15392)" Findings of NAACL (2025).
 
 # 2024
 
