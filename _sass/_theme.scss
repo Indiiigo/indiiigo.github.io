@@ -1,0 +1,242 @@
+/* ==========================================================================
+   Site theme: colour tokens, fonts and dark mode
+   (dark mode is toggled via html[data-theme="dark"])
+   ========================================================================== */
+
+:root {
+  --bg          : #fbfaf7;
+  --bg-alt      : #f1eff8;
+  --text        : #2b2d3a;
+  --text-muted  : #6b6e80;
+  --heading     : #1f2033;
+  --accent      : #4b4fa8;
+  --accent-hover: #34378a;
+  --border      : #e3e1ec;
+  --shadow      : rgba(31, 32, 51, 0.15);
+}
+
+html[data-theme="dark"] {
+  --bg          : #16171f;
+  --bg-alt      : #20222e;
+  --text        : #d7d8e2;
+  --text-muted  : #9a9cb0;
+  --heading     : #eeeef6;
+  --accent      : #a3a7f2;
+  --accent-hover: #c6c8ff;
+  --border      : #30324a;
+  --shadow      : rgba(0, 0, 0, 0.5);
+}
+
+$theme-sans  : "Source Sans 3", $sans-serif;
+$theme-serif : "Source Serif 4", Georgia, serif;
+
+/* Base
+   ========================================================================== */
+
+html,
+body {
+  background-color: var(--bg);
+}
+
+body {
+  color: var(--text);
+  font-family: $theme-sans;
+}
+
+h1, h2, h3, h4, h5, h6,
+.page__title,
+.author__name {
+  font-family: $theme-serif;
+  font-weight: 600;
+  color: var(--heading);
+}
+
+a {
+  color: var(--accent);
+
+  &:hover,
+  &:focus {
+    color: var(--accent-hover);
+  }
+
+  &:visited {
+    color: var(--accent);
+  }
+}
+
+hr,
+.page__content h2,
+.page__meta,
+.page__share,
+.archive__subtitle,
+.page__related {
+  border-color: var(--border);
+}
+
+blockquote {
+  border-color: var(--accent);
+  color: var(--text-muted);
+}
+
+code, pre, .highlight, figure.highlight {
+  background: var(--bg-alt);
+  color: var(--text);
+}
+
+table, th, td {
+  border-color: var(--border);
+}
+
+thead, th {
+  background: var(--bg-alt);
+}
+
+/* Slightly smaller body text */
+.page__content,
+.archive {
+  font-size: 0.9em;
+
+  p, li, dl {
+    font-size: 1em;
+  }
+}
+
+/* Masthead & navigation
+   ========================================================================== */
+
+.masthead {
+  border-color: var(--border);
+}
+
+.masthead__inner-wrap {
+  font-family: $theme-sans;
+}
+
+.masthead__menu {
+  display: flex;
+  align-items: center;
+
+  .greedy-nav {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+}
+
+.greedy-nav {
+  background: var(--bg);
+
+  a,
+  a:visited {
+    color: var(--text-muted);
+
+    &:hover {
+      color: var(--accent);
+    }
+  }
+
+  .visible-links a:before {
+    background: var(--accent);
+  }
+
+  button {
+    background-color: var(--accent);
+    color: var(--bg);
+  }
+
+  .hidden-links {
+    background: var(--bg-alt);
+    border-color: var(--border);
+    box-shadow: 0 0 10px var(--shadow);
+
+    a:hover {
+      background: var(--border);
+    }
+
+    &:before {
+      border-color: var(--border) transparent;
+    }
+
+    &:after {
+      border-color: var(--bg-alt) transparent;
+    }
+  }
+}
+
+.theme-toggle {
+  flex: 0 0 auto;
+  margin: 0 0 0 0.5rem;
+  padding: 0.5rem;
+  border: 0;
+  background: transparent;
+  color: var(--text-muted);
+  font-size: $type-size-5;
+  line-height: 1;
+  cursor: pointer;
+
+  &:hover {
+    color: var(--accent);
+  }
+}
+
+.theme-icon--light { display: none; }
+
+html[data-theme="dark"] {
+  .theme-icon--dark { display: none; }
+  .theme-icon--light { display: inline; }
+}
+
+/* Sidebar & footer
+   ========================================================================== */
+
+.author__urls {
+  background: var(--bg-alt);
+  border-color: var(--border);
+
+  &:before {
+    border-color: var(--border) transparent;
+  }
+
+  &:after {
+    border-color: var(--bg-alt) transparent;
+  }
+
+  @include breakpoint($large) {
+    background: transparent;
+  }
+
+  a,
+  a:visited {
+    color: var(--text);
+
+    &:hover {
+      color: var(--accent);
+    }
+  }
+}
+
+.author__urls-wrapper button,
+.btn--inverse {
+  background: var(--bg);
+  color: var(--text);
+  border-color: var(--border);
+
+  &:hover {
+    background: var(--bg-alt);
+    color: var(--accent);
+  }
+}
+
+.page__footer {
+  background-color: var(--bg-alt);
+  color: var(--text-muted);
+  border-color: var(--border);
+
+  a,
+  a:visited {
+    color: var(--text-muted);
+
+    &:hover {
+      color: var(--accent);
+    }
+  }
+}

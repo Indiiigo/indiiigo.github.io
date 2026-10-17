@@ -31,6 +31,6 @@ I've taught courses at GESIS, RWTH-Aachen, the University of Konstanz, and the U
 
 ### 2020
 
-[**From the total survey error framework to an error framework for digital traces of humans: translation tutorial**](https://dl.acm.org/doi/abs/10.1145/3351095.3375669) [[PDF](https://dl.acm.org/doi/pdf/10.1145/3351095.3375669)]<br>
+[From the total survey error framework to an error framework for digital traces of humans: translation tutorial](https://dl.acm.org/doi/abs/10.1145/3351095.3375669) [[PDF](https://dl.acm.org/doi/pdf/10.1145/3351095.3375669)]<br>
 **Indira Sen**, Fabian Flöck, Katrin Weller, Bernd Weiß, Claudia Wagner<br>
 *ACM Conference on Fairness, Accountability, and Transparency (FAccT)*
