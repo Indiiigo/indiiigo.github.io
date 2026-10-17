@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hello!"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Indira Sen"
 description              : &description "Computational Social Scientist"

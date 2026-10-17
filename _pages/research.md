@@ -149,10 +149,6 @@ Mattia Samory, **Indira Sen**, Julian Kohne, Fabian Flöck, Claudia Wagner<br>
 **Indira Sen**, Fabian Flöck, Claudia Wagner<br>
 *Conference on Empirical Methods in Natural Language Processing (EMNLP)*
 
-[**From the total survey error framework to an error framework for digital traces of humans: translation tutorial**](https://dl.acm.org/doi/abs/10.1145/3351095.3375669) [[PDF](https://dl.acm.org/doi/pdf/10.1145/3351095.3375669)]<br>
-**Indira Sen**, Fabian Flöck, Katrin Weller, Bernd Weiß, Claudia Wagner<br>
-*ACM Conference on Fairness, Accountability, and Transparency (FAccT)*
-
 # 2018
 
 [**Empowering first responders through automated multimodal content moderation**](https://ieeexplore.ieee.org/abstract/document/8457689/) [[PDF](https://www.researchgate.net/profile/Ponnurangam-Kumaraguru/publication/327497679_Empowering_First_Responders_through_Automated_Multimodal_Content_Moderation/links/5b91f9884585153a53002967/Empowering-First-Responders-through-Automated-Multimodal-Content-Moderation.pdf)]<br>
