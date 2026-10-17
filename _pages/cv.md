@@ -1,12 +1,7 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
+title: "Resume"
+permalink: /resume/
 redirect_from:
-  - /resume
+  - /cv/
+redirect_to: /files/Indira_CV.pdf
 ---
-
-{% include base_path %}
-
-Here's my mostly updated [CV](http://indiiigo.github.io/files/Indira_CV.pdf)

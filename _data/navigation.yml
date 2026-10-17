@@ -1,17 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
 
   # - title: "Talks"
-  #   url: /talks/    
+  #   url: /talks/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-    
-  - title: "CV"
-    url: /cv/
-    
+    url: /teaching/
+
+  - title: "Resume"
+    url: /files/Indira_CV.pdf
+
   # - title: "Research Interests"
   #   url: /markdown/

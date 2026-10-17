@@ -1,0 +1,4 @@
+# News items shown on the home page, newest first. Example:
+# - date: "Oct 2026"
+#   text: "Our paper [Title](https://example.com) was accepted at ACL!"
+[]

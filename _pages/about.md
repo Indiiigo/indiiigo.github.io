@@ -13,3 +13,9 @@ I am a Computational Social Scientist working on building and evaluating equitab
 I did my doctoral studies at RWTH-Aachen and GESIS, Leibnitz Institute for the Social Sciences at the [Computational Social Science (CSS) Department](https://www.gesis.org/en/institute/about-us/departments/computational-social-science). I'm fortunate to have been advised by Prof. Claudia Wagner and Prof. Wil van der Aalst. My doctoral research drew from natural language processing and measurement theory, to study how researchers and policy-makers could draw better and more transparent insights from digital trace data.
 
 Before my doctoral studies, I obtained my Master's in Computer Science from [IIIT Delhi](https://www.iiitd.ac.in/), where I was also a research assistant. And even before that, I did my Bachelor's (also in CS) at Vellore Institute of Technology.
+
+## News
+
+{% for item in site.data.news %}
+* **{{ item.date }}**: {{ item.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}
+{% endfor %}
