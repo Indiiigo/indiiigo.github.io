@@ -9,16 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-This list is pulled automatically from my [Google Scholar profile]({{ site.author.googlescholar }}). If you can't access a paper, [email me](mailto:{{ site.author.email }}) for a pdf copy.
+You can also find my articles on my [Google Scholar profile]({{ site.author.googlescholar }}). If you can't access a paper, [email me](mailto:{{ site.author.email }}) for a pdf copy.
 
 {% assign pubs_by_year = site.data.publications | group_by: "year" | sort: "name" | reverse %}
 {% for year in pubs_by_year %}
 <h2 id="year-{{ year.name | default: 'undated' }}">{{ year.name | default: "Undated" }}</h2>
 {% for pub in year.items %}
 <p class="publication">
-  <a href="{{ pub.url }}"><strong>{{ pub.title }}</strong></a><br>
-  {{ pub.authors | replace: "I Sen", "<strong>I Sen</strong>" }}<br>
-  <em>{{ pub.venue }}</em>{% if pub.citations > 0 %} · Cited by {{ pub.citations }}{% endif %}
+  {% if pub.url %}<a href="{{ pub.url }}"><strong>{{ pub.title }}</strong></a>{% else %}<strong>{{ pub.title }}</strong>{% endif %}{% if pub.pdf %} [<a href="{{ pub.pdf }}">PDF</a>]{% endif %}<br>
+  {{ pub.authors | replace: "Indira Sen", "<strong>Indira Sen</strong>" }}<br>
+  {% if pub.venue != "" %}<em>{{ pub.venue }}</em>{% endif %}{% if pub.note %} · <strong>{{ pub.note }}</strong>{% endif %}
 </p>
 {% endfor %}
 {% endfor %}

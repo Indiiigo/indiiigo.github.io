@@ -1,258 +1,260 @@
 - title: 'Total Simulated Survey Error: Designing and Diagnosing Survey Responses from Large Language Models'
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:YFjsv_pBGBYC
-  authors: I Sen, G Ahnert, L von der Heyde, J Lasser, B Weiß, M Strohmaier
-  venue: arXiv preprint arXiv:2609.10280
+  authors: Indira Sen, Georg Ahnert, Leah von der Heyde, Jana Lasser, Bernd Weiß, Markus Strohmaier
+  venue: arXiv preprint
   year: 2026
-  citations: 0
+  url: https://arxiv.org/abs/2609.10280
+  pdf: https://arxiv.org/pdf/2609.10280
 - title: Racial Biases in Social Media Discussions About Soccer Players
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:hMod-77fHWUC
-  authors: T Schumacher, I Sen, E Doda, C Wagner
-  venue: Proceedings of the International AAAI Conference on Web and Social Media 20 …
+  authors: Tobias Schumacher, Indira Sen, Esi Doda, Claudia Wagner
+  venue: ICWSM
   year: 2026
-  citations: 0
+  url: https://ojs.aaai.org/index.php/ICWSM/article/view/42736
+  pdf: https://ojs.aaai.org/index.php/ICWSM/article/download/42736/50296
 - title: Generative AI for climate governance and acceptability-constrained policy design
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:JV2RwH3_ST0C
-  authors: A Manivannan, V Spaiser, TJB Cann, J Evans, JP Everall, M Falkenberg, ...
-  venue: npj Climate Action 5 (1), 37
+  authors: Ajaykumar Manivannan, Viktoria Spaiser, Tristan JB Cann, James Evans, Jordan P Everall, Max Falkenberg, David Garcia, Weisi Guo, Rico Herzog, Ilona M Otto, Yannick Oswald, Nicolò Pagan, Max Pellert, Charlie Pilgrim, Carlos Rodriguez-Pardo, Indira Sen, Alexander Sasha Vezhnevets
+  venue: npj Climate Action
   year: 2026
-  citations: 0
+  url: https://www.nature.com/articles/s44168-026-00362-6
+  pdf: null
 - title: Too Open for Opinion? Embracing Open-Endedness in Large Language Models for Social Simulation
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:maZDTaKrznsC
-  authors: B Ma, Y Cao, I Sen, AC Haensch, F Kreuter, B Plank, D Hershcovich
-  venue: Proceedings of the 19th Conference of the European Chapter of the …
+  authors: Bolei Ma, Yong Cao, Indira Sen, Anna-Carolina Haensch, Frauke Kreuter, Barbara Plank, Daniel Hershcovich
+  venue: EACL
   year: 2026
-  citations: 4
+  url: https://aclanthology.org/2026.eacl-long.89/
+  pdf: https://aclanthology.org/2026.eacl-long.89.pdf
 - title: Do psychometric tests work for large language models? evaluation of tests on sexism, racism, and morality
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:k_IJM867U9cC
-  authors: J Jung, M Lutz, I Sen, M Strohmaier
-  venue: Proceedings of the 19th Conference of the European Chapter of the …
+  authors: Jana Jung, Marlene Lutz, Indira Sen, Markus Strohmaier
+  venue: EACL
   year: 2026
-  citations: 7
+  url: https://aclanthology.org/2026.eacl-long.380/
+  pdf: https://aclanthology.org/2026.eacl-long.380.pdf
 - title: Neural network embeddings recover value dimensions from psychometric survey items on par with human data
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:isC4tDSrTZIC
-  authors: M Pellert, CM Lechner, I Sen, M Strohmaier
-  venue: 'Findings of the Association for Computational Linguistics: EACL 2026, 5738-5752'
+  authors: Max Pellert, Clemens M Lechner, Indira Sen, Markus Strohmaier
+  venue: Findings of EACL
   year: 2026
-  citations: 4
+  url: https://aclanthology.org/2026.findings-eacl.303/
+  pdf: https://aclanthology.org/2026.findings-eacl.303.pdf
 - title: Using data from social media for computational social science research
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:M3NEmzRMIkIC
-  authors: K Weller, I Sen
-  venue: Handbook of Computational Social Science, 87-99
+  authors: Katrin Weller, Indira Sen
+  venue: Handbook of Computational Social Science
   year: 2025
-  citations: 1
+  url: https://www.elgaronline.com/edcollchap/book/9781802207309/chapter7.xml?tab_body=pdf-copy1
+  pdf: null
 - title: 'The unseen targets of hate: A systematic review of hateful communication datasets'
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:QIV2ME_5wuYC
-  authors: Z Yu, I Sen, D Assenmacher, M Samory, L Fröhling, C Dahn, D Nozza, ...
-  venue: Social Science Computer Review 43 (5), 1114-1144
+  authors: Zehui Yu, Indira Sen, Dennis Assenmacher, Mattia Samory, Leon Fröhling, Christina Dahn, Debora Nozza, Claudia Wagner
+  venue: Social Science Computer Review
   year: 2025
-  citations: 21
+  url: https://journals.sagepub.com/doi/abs/10.1177/08944393241258771
+  pdf: https://journals.sagepub.com/doi/full/10.1177/08944393241258771
 - title: 'Assessing data quality in the age of digital social research: A systematic review'
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:4DMP91E08xMC
-  authors: J Daikeler, L Fröhling, I Sen, L Birkenmaier, T Gummer, J Schwalbach, ...
-  venue: Social Science Computer Review 43 (5), 943-979
+  authors: Jessica Daikeler, Leon Fröhling, Indira Sen, Lukas Birkenmaier, Tobias Gummer, Jan Schwalbach, Henning Silber, Bernd Weiß, Katrin Weller, Clemens Lechner
+  venue: Social Science Computer Review
   year: 2025
-  citations: 40
+  url: https://journals.sagepub.com/doi/abs/10.1177/08944393241245395
+  pdf: https://journals.sagepub.com/doi/pdf/10.1177/08944393241245395
 - title: 'Sensitive content classification in social media: A holistic resource and evaluation'
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:TQgYirikUcIC
-  authors: D Antypas, I Sen, C Perez-Almendros, J Camacho-Collados, F Barbieri
-  venue: Proceedings of the The 9th Workshop on Online Abuse and Harms (WOAH), 17-31
+  authors: Dimosthenis Antypas, Indira Sen, Carla Perez-Almendros, Jose Camacho-Collados, Francesco Barbieri
+  venue: WOAH Workshop
   year: 2025
-  citations: 14
+  url: https://aclanthology.org/2025.woah-1.2/
+  pdf: https://aclanthology.org/2025.woah-1.2.pdf
 - title: 'The prompt makes the person (a): A systematic evaluation of sociodemographic persona prompting for large language models'
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:r0BpntZqJG4C
-  authors: M Lutz, I Sen, G Ahnert, E Rogers, M Strohmaier
-  venue: EMNLP (Findings)
+  authors: Marlene Lutz, Indira Sen, Georg Ahnert, Elisa Rogers, Markus Strohmaier
+  venue: Findings of EMNLP
   year: 2025
-  citations: 97
+  url: https://aclanthology.org/2025.findings-emnlp.1261/
+  pdf: https://aclanthology.org/2025.findings-emnlp.1261.pdf
 - title: 'Missing the Margins: A Systematic Literature Review on the Demographic Representativeness of LLMs'
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:_Qo2XoVZTnwC
-  authors: I Sen, M Lutz, E Rogers, D Garcia, M Strohmaier
-  venue: 'Findings of the Association for Computational Linguistics: ACL 2025'
+  authors: Indira Sen, Marlene Lutz, Elisa Rogers, David Garcia, Markus Strohmaier
+  venue: Findings of ACL
   year: 2025
-  citations: 28
+  url: https://aclanthology.org/2025.findings-acl.1246/
+  pdf: https://aclanthology.org/2025.findings-acl.1246.pdf
 - title: 'Tell Me What You Know About Sexism: Expert-LLM Interaction Strategies and Co-Created Definitions for Zero-Shot Sexism Detection'
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:e5wmG9Sq2KIC
-  authors: M Reuver, I Sen, M Melis, G Lapesa
-  venue: 'Findings of the Association for Computational Linguistics: NAACL 2025'
+  authors: Myrthe Reuver, Indira Sen, Matteo Melis, Gabriella Lapesa
+  venue: Findings of NAACL
   year: 2025
-  citations: 2
+  url: https://aclanthology.org/2025.findings-naacl.470/
+  pdf: https://aclanthology.org/2025.findings-naacl.470.pdf
 - title: 'Connecting natural language processing and survey methodology: Potentials, challenges, and open questions'
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:RHpTSmoSYBkC
-  authors: I Sen, B Ma, G Ahnert, AC Haensch, T Holtdirk, F Kreuter, M Strohmaier
-  venue: OSF
+  authors: Indira Sen, Bolei Ma, Georg Ahnert, Anna-Carolina Haensch, Tobias Holtdirk, Frauke Kreuter, Markus Strohmaier
+  venue: OSF Preprints
   year: 2025
-  citations: 2
+  url: null
+  pdf: null
 - title: 'Only a Little to the Left: A Theory-grounded Measure of Political Bias in Large Language Models'
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:R3hNpaxXUhUC
-  authors: M Faulborn, I Sen, M Pellert, A Spitz, D Garcia
-  venue: Proceedings of the 63rd Annual Meeting of the Association for Computational …
+  authors: Mats Faulborn, Indira Sen, Max Pellert, Andreas Spitz, David Garcia
+  venue: ACL
   year: 2025
-  citations: 43
+  url: https://aclanthology.org/2025.acl-long.1529/
+  pdf: https://aclanthology.org/2025.acl-long.1529.pdf
 - title: Robustness and confounders in the demographic alignment of llms with human perceptions of offensiveness
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:HDshCWvjkbEC
-  authors: S Alipour, I Sen, M Samory, T Mitra
-  venue: 'Findings of the Association for Computational Linguistics: ACL 2025'
+  authors: Shayan Alipour, Indira Sen, Mattia Samory, Tanushree Mitra
+  venue: Findings of ACL
   year: 2025
-  citations: 15
+  url: https://aclanthology.org/2025.findings-acl.1136/
+  pdf: https://aclanthology.org/2025.findings-acl.1136.pdf
 - title: 'From Measurement Instruments to Data: Leveraging Theory-Driven Synthetic Training Data for Classifying Social Constructs'
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:mB3voiENLucC
-  authors: L Birkenmaier, M Roth, I Sen
-  venue: arXiv preprint arXiv:2410.12622
+  authors: Lukas Birkenmaier, Matthias Roth, Indira Sen
+  venue: arXiv preprint
   year: 2024
-  citations: 0
+  url: https://arxiv.org/abs/2410.12622
+  pdf: https://arxiv.org/pdf/2410.12622?
 - title: The Geography of US Companies That Care About Their Employees
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:7PzlFSSx8tAC
-  authors: I Sen, S Scepanovic, M Constantinides, D Quercia
-  venue: Proceedings of the 3rd Annual Meeting of the Symposium on Human-Computer …
+  authors: Indira Sen, Sanja Scepanovic, Marios Constantinides, Daniele Quercia
+  venue: CHIWORK
   year: 2024
-  citations: 0
+  url: https://dl.acm.org/doi/abs/10.1145/3663384.3663405
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3663384.3663405
 - title: An Open Multilingual System for Scoring Readability of Wikipedia
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:dhFuZR0502QC
-  authors: M Trokhymovych, I Sen, M Gerlach
-  venue: ACL 2024
+  authors: Mykola Trokhymovych, Indira Sen, Martin Gerlach
+  venue: ACL
   year: 2024
-  citations: 22
+  url: https://aclanthology.org/2024.acl-long.342/
+  pdf: https://aclanthology.org/2024.acl-long.342.pdf
 - title: 'Defining and evaluating data quality for the social sciences: Position paper'
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:TFP_iSt0sucC
-  authors: L Birkenmaier, J Daikeler, L Fröhling, T Gummer, C Lechner, V Lux, ...
-  venue: DEU 2024, 32
+  authors: Lukas Birkenmaier, Jessica Daikeler, Leon Fröhling, Tobias Gummer, Clemens Lechner, Vanessa Lux, Jan Schwalbach, Indira Sen, Henning Silber, Bernd Weiß, Katrin Weller, Christof Wolf, Dennis Abel, Johannes Breuer, Stefan Dietze, Dimitar Dimitrov, Holger Döring, Anna Hebel, Oshrat Hochman, Stefan Jünger, Alexia Katsanidou, Julian Kohne, Tanja Kunz, Frank Mangold, Brigitte Mathiak, Joachim G Piepenburg, Reinhard Pollak, Markus Quandt, Beatrice Rammstedt, Joss Roßmann, Sebastian Schellhammer, Anne-Kathrin Stroppe, Felix Soldner, Sebastian Stier, Claudia Wagner, Oliver Watteler, Julia Weiß, Benjamin Zapilko, Sebastian Ziaja
+  venue: Position paper (SSOAR)
   year: 2024
-  citations: 10
+  url: https://www.ssoar.info/ssoar/handle/document/96764
+  pdf: https://www.ssoar.info/ssoar/bitstream/handle/document/96764/ssoar-2024-birkenmaier_et_al-Defining_and_Evaluating_Data_Quality.pdf?sequence=4
 - title: Identifying, characterizing, and mitigating errors in the automated measurement of social constructs from text data
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:ZeXyd9-uunAC
-  authors: I Sen
-  venue: Dissertation, RWTH Aachen University, 2024
+  authors: Indira Sen
+  venue: PhD thesis, RWTH Aachen University
   year: 2024
-  citations: 0
+  url: https://publications.rwth-aachen.de/record/989926/files/989926.pdf
+  pdf: null
 - title: A multidisciplinary lens of bias in hate speech
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:Wp0gIr-vW9MC
-  authors: P Reyero Lobo, J Kwarteng, M Russo, M Fahimi, K Scott, A Ferrara, I Sen, ...
-  venue: Proceedings of the International Conference on Advances in Social Networks …
+  authors: Paula Reyero Lobo, Joseph Kwarteng, Mayra Russo, Miriam Fahimi, Kristen Scott, Antonio Ferrara, Indira Sen, Miriam Fernandez
+  venue: ASONAM
   year: 2023
-  citations: 10
+  url: https://dl.acm.org/doi/abs/10.1145/3625007.3627491
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3625007.3627491
 - title: 'People Make Better Edits: Measuring the Efficacy of LLM-Generated Counterfactually Augmented Data for Harmful Language Detection'
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:qxL8FJ1GzNcC
-  authors: I Sen, D Assenmacher, M Samory, I Augenstein, W van der Aalst, ...
-  venue: EMNLP 2023
+  authors: Indira Sen, Dennis Assenmacher, Mattia Samory, Isabelle Augenstein, Wil van der Aalst, Claudia Wagner
+  venue: EMNLP
   year: 2023
-  citations: 42
+  url: https://aclanthology.org/2023.emnlp-main.649/
+  pdf: https://aclanthology.org/2023.emnlp-main.649.pdf
 - title: Total Error Sheets for Datasets (TES-D)--A Critical Guide to Documenting Online Platform Datasets
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:4TOpqqG69KYC
-  authors: L Fröhling, I Sen, F Soldner, L Steinbrinker, M Zens, K Weller
-  venue: arXiv preprint arXiv:2306.14219
+  authors: Leon Fröhling, Indira Sen, Felix Soldner, Leonie Steinbrinker, Maria Zens, Katrin Weller
+  venue: arXiv preprint
   year: 2023
-  citations: 2
+  url: https://arxiv.org/abs/2306.14219
+  pdf: https://arxiv.org/pdf/2306.14219
 - title: 'Insider stories: analyzing internal sustainability efforts of major US companies from online reviews'
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:3fE2CSJIrl8C
-  authors: I Sen, D Quercia, L Capra, M Montecchi, S Šćepanović
-  venue: Humanities and Social Sciences Communications 10 (1)
+  authors: Indira Sen, Daniele Quercia, Licia Capra, Matteo Montecchi, Sanja Šćepanović
+  venue: Humanities and Social Sciences Communications
   year: 2023
-  citations: 11
-- title: The End of the Rehydration Era The Problem of Sharing Harmful Twitter Research Data
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:_kc_bZDykSQC
-  authors: D Assenmacher, I Sen, L Fröhling, C Wagner
-  venue: ''
+  url: https://www.nature.com/articles/s41599-023-01672-4
+  pdf: null
+- title: 'The End of the Rehydration Era: The Problem of Sharing Harmful Twitter Research Data'
+  authors: Dennis Assenmacher, Indira Sen, Leon Fröhling, Claudia Wagner
+  venue: NEATCLasS Workshop @ ICWSM
   year: 2023
-  citations: 15
+  url: https://workshop-proceedings.icwsm.org/pdf/2023_56.pdf
+  pdf: null
+  note: Best Paper Award
 - title: 'Depression at work: exploring depression in major US companies from online reviews'
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:KlAtU1dfN6UC
-  authors: I Sen, D Quercia, M Constantinides, M Montecchi, L Capra, S Scepanovic, ...
-  venue: Proceedings of the ACM on Human-Computer Interaction 6 (CSCW2), 1-21
+  authors: Indira Sen, Daniele Quercia, Marios Constantinides, Matteo Montecchi, Licia Capra, Sanja Scepanovic, Renzo Bianchi
+  venue: Proceedings of the ACM on Human-Computer Interaction (CSCW)
   year: 2022
-  citations: 18
+  url: https://dl.acm.org/doi/abs/10.1145/3555539
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3555539
 - title: 'Counterfactually augmented data and unintended bias: The case of sexism and hate speech detection'
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:kNdYIx-mwKoC
-  authors: I Sen, M Samory, C Wagner, I Augenstein
-  venue: In Proceedings of the 2022 Conference of the North American Chapter of the …
+  authors: Indira Sen, Mattia Samory, Claudia Wagner, Isabelle Augenstein
+  venue: NAACL
   year: 2022
-  citations: 53
+  url: https://aclanthology.org/2022.naacl-main.347/
+  pdf: https://aclanthology.org/2022.naacl-main.347.pdf
 - title: Visualizing internal sustainability efforts in big companies
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:8k81kl-MbHgC
-  authors: C Ceccarini, EP Bogucka, I Sen, M Constantinides, C Prandi, D Quercia
-  venue: IEEE Computer Graphics and Applications 42 (3), 87-98
+  authors: Chiara Ceccarini, Edyta Paulina Bogucka, Indira Sen, Marios Constantinides, Catia Prandi, Daniele Quercia
+  venue: IEEE Computer Graphics and Applications
   year: 2022
-  citations: 19
+  url: https://ieeexplore.ieee.org/abstract/document/9744575/
+  pdf: http://social-dynamics.net/docs/vis-internal-sustainability.pdf
 - title: Applying a total error framework for digital traces to social media research
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:0EnyYjriUFMC
-  authors: I Sen, F Flöck, K Weller, B Weiß, C Wagner
-  venue: 'Handbook of Computational Social Science, Volume 2: Data Science …'
+  authors: Indira Sen, Fabian Flöck, Katrin Weller, Bernd Weiß, Claudia Wagner
+  venue: Handbook of Computational Social Science
   year: 2021
-  citations: 3
+  url: null
+  pdf: null
 - title: How Does Counterfactually Augmented Data Impact Models for Social Computing Constructs?
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:UebtZRa9Y70C
-  authors: I Sen, M Samory, F Flöck, C Wagner, I Augenstein
-  venue: Conference on Empirical Methods in Natural Language Processing (pp. 325-344).
+  authors: Indira Sen, Mattia Samory, Fabian Flöck, Claudia Wagner, Isabelle Augenstein
+  venue: EMNLP
   year: 2021
-  citations: 33
+  url: https://aclanthology.org/2021.emnlp-main.28/
+  pdf: https://aclanthology.org/2021.emnlp-main.28.pdf
 - title: A total error framework for digital traces of human behavior on online platforms
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:Se3iqnhoufwC
-  authors: I Sen, F Flöck, K Weller, B Weiß, C Wagner
-  venue: Public Opinion Quarterly 85 (S1), 399-422
+  authors: Indira Sen, Fabian Flöck, Katrin Weller, Bernd Weiß, Claudia Wagner
+  venue: Public Opinion Quarterly
   year: 2021
-  citations: 162
+  url: https://academic.oup.com/poq/article-abstract/85/S1/399/6359490
+  pdf: https://www.academia.edu/download/71512505/nfab018.pdf
 - title: '“Call me sexist, but...”: Revisiting sexism detection using psychological scales and adversarial samples'
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:roLk4NBRz8UC
-  authors: M Samory, I Sen, J Kohne, F Flöck, C Wagner
-  venue: Proceedings of the international AAAI conference on web and social media 15 …
+  authors: Mattia Samory, Indira Sen, Julian Kohne, Fabian Flöck, Claudia Wagner
+  venue: ICWSM
   year: 2021
-  citations: 150
-- title: The’call me sexist but’dataset (cmsb)
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:4JMBOYKVnBMC
+  url: https://ojs.aaai.org/index.php/ICWSM/article/view/18085
+  pdf: https://ojs.aaai.org/index.php/ICWSM/article/download/18085/17888
+- title: The “Call me sexist but” dataset (CMSB)
   authors: M Samory
-  venue: GESIS-Leibniz-Institute for the Social Sciences. Data File Version 1 (0)
+  venue: GESIS Data Archive
   year: 2021
-  citations: 7
+  url: null
+  pdf: null
 - title: What Human Rationales Tell Us about Machine Explanations
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:YOwf2qJgpHMC
-  authors: I Sen, M Samory, F Flöck, C Wagner
-  venue: Non Archival Submission at the HCI+NLP Workshop
+  authors: Indira Sen, Mattia Samory, Fabian Flöck, Claudia Wagner
+  venue: HCI+NLP Workshop (non-archival)
   year: 2021
-  citations: 1
+  url: https://indiiigo.github.io/files/human_rationales.pdf
+  pdf: null
 - title: On the reliability and validity of detecting approval of political actors in tweets
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:_FxGoFyzp5QC
-  authors: I Sen, F Flöck, C Wagner
-  venue: Proceedings of the 2020 Conference on Empirical Methods in Natural Language …
+  authors: Indira Sen, Fabian Flöck, Claudia Wagner
+  venue: EMNLP
   year: 2020
-  citations: 44
+  url: https://aclanthology.org/2020.emnlp-main.110/
+  pdf: https://aclanthology.org/2020.emnlp-main.110.pdf
 - title: (Mis) Measuring People's Attitudes from Social Media
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:ufrVoPGSRksC
-  authors: I Sen
-  venue: Companion Publication of the 2020 Conference on Computer Supported …
+  authors: Indira Sen
+  venue: CSCW Companion
   year: 2020
-  citations: 0
+  url: https://dl.acm.org/doi/abs/10.1145/3406865.3418363
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3406865.3418363
 - title: 'From the total survey error framework to an error framework for digital traces of humans: translation tutorial'
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:IjCSPb-OGe4C
-  authors: I Sen, F Flöck, K Weller, B Weiß, C Wagner
-  venue: Proceedings of the 2020 Conference on Fairness, Accountability, and …
+  authors: Indira Sen, Fabian Flöck, Katrin Weller, Bernd Weiß, Claudia Wagner
+  venue: ACM FAccT
   year: 2020
-  citations: 1
+  url: https://dl.acm.org/doi/abs/10.1145/3351095.3375669
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3351095.3375669
 - title: 'TED-On: A Total Error Framework for Digital Traces of Human Behavior on Online Platforms'
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:5nxA0vEk-isC
-  authors: I Sen, F Floeck, K Weller, B Weiss, C Wagner
-  venue: arXiv preprint arXiv:1907.08228
+  authors: Indira Sen, Fabian Floeck, Katrin Weller, Bernd Weiss, Claudia Wagner
+  venue: arXiv preprint
   year: 2019
-  citations: 45
+  url: https://arxiv.org/abs/1907.08228
+  pdf: https://arxiv.org/pdf/1907.08228
 - title: Empowering first responders through automated multimodal content moderation
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:d1gkVwhDpl0C
-  authors: D Gupta, I Sen, N Sachdeva, P Kumaraguru, AB Buduru
-  venue: 2018 IEEE International Conference on Cognitive Computing (ICCC), 1-8
+  authors: Divam Gupta, Indira Sen, Niharika Sachdeva, Ponnurangam Kumaraguru, Arun Balaji Buduru
+  venue: IEEE ICCC
   year: 2018
-  citations: 8
+  url: https://ieeexplore.ieee.org/abstract/document/8457689/
+  pdf: https://www.researchgate.net/profile/Ponnurangam-Kumaraguru/publication/327497679_Empowering_First_Responders_through_Automated_Multimodal_Content_Moderation/links/5b91f9884585153a53002967/Empowering-First-Responders-through-Automated-Multimodal-Content-Moderation.pdf
+  note: Best Paper Award
 - title: Language identification and named entity recognition in hinglish code mixed tweets
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:9yKSN-GCB0IC
-  authors: K Singh, I Sen, P Kumaraguru
-  venue: Proceedings of ACL 2018, Student Research Workshop, 52-58
+  authors: Kushagra Singh, Indira Sen, Ponnurangam Kumaraguru
+  venue: ACL Student Research Workshop
   year: 2018
-  citations: 68
+  url: https://aclanthology.org/P18-3008/
+  pdf: https://aclanthology.org/P18-3008.pdf
 - title: A Twitter corpus for Hindi-English code mixed POS tagging
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:u-x6o8ySG0sC
-  authors: K Singh, I Sen, P Kumaraguru
-  venue: Proceedings of the sixth international workshop on natural language …
+  authors: Kushagra Singh, Indira Sen, Ponnurangam Kumaraguru
+  venue: SocialNLP Workshop
   year: 2018
-  citations: 72
+  url: https://aclanthology.org/W18-3503/
+  pdf: https://aclanthology.org/W18-3503.pdf
 - title: 'Worth its weight in likes: Towards detecting fake likes on instagram'
-  url: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qXzr-p8AAAAJ&citation_for_view=qXzr-p8AAAAJ:u5HHmVD_uO8C
-  authors: I Sen, A Aggarwal, S Mian, S Singh, P Kumaraguru, A Datta
-  venue: Proceedings of the 10th ACM conference on web science, 205-209
+  authors: Indira Sen, Anupama Aggarwal, Shiven Mian, Siddharth Singh, Ponnurangam Kumaraguru, Anwitaman Datta
+  venue: ACM Web Science
   year: 2018
-  citations: 83
+  url: https://dl.acm.org/doi/abs/10.1145/3201064.3201105
+  pdf: https://dl.acm.org/doi/pdf/10.1145/3201064.3201105

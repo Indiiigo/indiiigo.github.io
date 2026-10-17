@@ -1,0 +1,28 @@
+# Manual fixes applied on top of Google Scholar data by fetch_scholar.py.
+# `match` is a case-insensitive substring of the paper title; any other keys
+# (title, authors, venue, year, url, pdf, note) replace the scraped values.
+# Set `hide: true` to drop a paper from the Research page.
+
+- match: "The End of the Rehydration Era"
+  title: "The End of the Rehydration Era: The Problem of Sharing Harmful Twitter Research Data"
+  venue: "NEATCLasS Workshop @ ICWSM"
+  note: "Best Paper Award"
+
+- match: "Empowering first responders"
+  note: "Best Paper Award"
+
+- match: "Identifying, characterizing, and mitigating errors"
+  venue: "PhD thesis, RWTH Aachen University"
+
+- match: "Defining and evaluating data quality for the social sciences"
+  venue: "Position paper (SSOAR)"
+
+- match: "The prompt makes the person"
+  url: "https://aclanthology.org/2025.findings-emnlp.1261/"
+  pdf: "https://aclanthology.org/2025.findings-emnlp.1261.pdf"
+
+- match: "Connecting natural language processing and survey methodology"
+  venue: "OSF Preprints"
+
+- match: "call me sexist but’dataset"
+  title: "The “Call me sexist but” dataset (CMSB)"
